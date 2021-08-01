@@ -18,6 +18,7 @@ export const HomeBlockOneWrapper = styled.section`
         position: absolute;
         color: ${props => props.theme.colors.white};
         text-align: center;
+        padding: 0 3rem;
 
         & > h1 {
             text-transform: uppercase;
