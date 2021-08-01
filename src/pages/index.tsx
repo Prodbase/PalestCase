@@ -13,7 +13,7 @@ const Home: React.FC = () => {
         title="Palest | Prodbase"
         desc="Crie um website profissional, blog ou portfólio e ganhe destaque on-line."
         keywords="Criação de Websites, Blogs, Portfólio, Galeria de fotos e Site institucional"
-        url="https://example.com.br/"
+        url="https://palest.prodbase.vercel.app/"
       />
       <HomeBlockOne />
       <HomeBlockTwo />
