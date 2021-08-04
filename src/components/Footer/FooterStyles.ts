@@ -24,7 +24,10 @@ export const FooterWrapper = styled.footer`
 
         a {
             color: #EC9649;
-            border-bottom: 2px solid #EC9649;
+            
+            :hover {
+                border-bottom: 2px solid #EC9649;
+            }
         }
     }
 `;

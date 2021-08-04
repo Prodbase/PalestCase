@@ -6,7 +6,7 @@ const Footer: React.FC = () => {
   return (
     <FooterWrapper>
       <h3>123 Demo Street, New York NY   |   (555) 555-5555   |   email@example.com</h3>
-      <p>Feito por <a href="https://palest.prodbase.com.br/">ProdBase</a></p>
+      <p>Feito por <a href="https://prodbase.com.br/">ProdBase</a></p>
     </FooterWrapper>
   )
 }
