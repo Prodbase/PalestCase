@@ -10,10 +10,10 @@ const Home: React.FC = () => {
   return (
     <main>
       <SeoComponent
-        title="Palest | Prodbase"
-        desc="Crie um website profissional, blog ou portfólio e ganhe destaque on-line."
+        title="Palest"
+        desc="Conheça mais um template da prodbase feito para te inspirar!!"
         keywords="Criação de Websites, Blogs, Portfólio, Galeria de fotos e Site institucional"
-        url="https://palest.prodbase.vercel.app/"
+        url="https://palest.prodbase.com.br/"
       />
       <HomeBlockOne />
       <HomeBlockTwo />

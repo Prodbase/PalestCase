@@ -23,8 +23,8 @@ export const FooterWrapper = styled.footer`
         text-transform: uppercase;
 
         a {
-            color: ${props => props.theme.colors.white};
-            text-decoration: underline;
+            color: #EC9649;
+            border-bottom: 2px solid #EC9649;
         }
     }
 `;
